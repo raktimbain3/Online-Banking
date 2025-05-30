@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<string.h>
 void check_balance();
 void deposit_balance();
 void withdraw_balance();
